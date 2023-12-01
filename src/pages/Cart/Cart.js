@@ -7,6 +7,11 @@ import { resetCart } from "../../redux/orebiSlice";
 import { emptyCart } from "../../assets/images/index";
 import ItemCard from "./ItemCard";
 
+
+
+
+// jadhxjhdsvbdghvdhcsadhjsdvbhjdsf d sugfue seufeg yfuse gfeyfe gfugea fe gfyu 
+
 const Cart = () => {
   const dispatch = useDispatch();
   const products = useSelector((state) => state.orebiReducer.products);
